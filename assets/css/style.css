@@ -30,6 +30,7 @@ a:hover {
 
 footer {
     font-family: 'Poiret One', cursive;
+    margin-top: 35vh;
 }
 
 .blue {
@@ -54,4 +55,9 @@ footer h4 {
 footer .button {
     color: #184e77;
     text-transform: capitalize;
+}
+
+.btn.btn-primary {
+    color: #fff;
+    background-color: #184e77;
 }
