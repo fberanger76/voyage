@@ -1,3 +1,29 @@
+body {
+    font-family: 'Orelega One', cursive;
+    font-family: 'Poiret One', cursive;
+}
+
+.astuces {
+    text-shadow: black 0.1em 0.1em 0.2em;
+    text-align: center;
+    padding-top: 8rem;
+    font-size: 3rem;
+
+}
+
+.card:hover {
+    opacity: .5;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
 footer {
     font-family: 'Poiret One', cursive;
 }
