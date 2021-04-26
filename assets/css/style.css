@@ -24,6 +24,10 @@ a:hover {
     color: white;
 }
 
+.titre {
+    font-family: 'Orelega One', cursive;
+}
+
 footer {
     font-family: 'Poiret One', cursive;
 }
