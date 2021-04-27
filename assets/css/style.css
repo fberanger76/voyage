@@ -61,3 +61,33 @@ footer .button {
     color: #fff;
     background-color: #184e77;
 }
+@font-face {
+    font-family: 'Elegant';
+    src: url('Elegant.otf');
+}
+
+.container-fluid {
+    background-color: #184e77;
+    justify-content: center;
+}
+
+.bi-person-fill,
+.bi-search,
+.bi-basket-fill {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.bi-person-fill,
+.bi-basket-fill {
+    padding-left: 5rem;
+}
+
+.nav-item {
+    font-family: 'Elegant.otf';
+}
+
+.nav
+{
+color: white;
+}
