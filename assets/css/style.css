@@ -68,26 +68,29 @@ footer .button {
 
 .container-fluid {
     background-color: #184e77;
-    justify-content: center;
+    align-items: baseline;
+    justify-content: space-evenly
 }
 
 .bi-person-fill,
 .bi-search,
 .bi-basket-fill {
     font-size: 1.5rem;
-    color: black;
+    color: white;
 }
 
-.bi-person-fill,
-.bi-basket-fill {
-    padding-left: 5rem;
-}
 
-.nav-item {
-    font-family: 'Elegant.otf';
-}
-
-.nav
+nav
 {
 color: white;
+background-color: #184e77;
+font-family: 'Orelega One', cursive;
+}
+
+ul li a {
+    font-family: 'Orelega One', cursive;
+}
+
+.hover:hover {
+    color: black;
 }
